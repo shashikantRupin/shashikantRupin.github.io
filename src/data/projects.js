@@ -13,7 +13,6 @@ export default function getProjects() {
             projectLinkGithub: "https://github.com/shashikantRupin/Jio-Mart",
         },
         {
-
             id: 2,
             image: 'vetcarePic.png',
             projectTitle: "Veterinary Appointment Booking System",
@@ -32,7 +31,7 @@ export default function getProjects() {
             projectLinkGithub: "https://github.com/shashikantRupin/Wine-project",
         },
         {
-            id: 3,
+            id: 4,
             projectTitle: "My portfolio",
             image: 'portfolio_img.png',
             projectInfo: "My portfolio is a testament to my skills, passion, and dedication. Within these pages, you'll find a collection of projects that I've carefully crafted, each representing a unique blend of creativity and expertise.",
