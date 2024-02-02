@@ -1,10 +1,13 @@
-import resume from './../resume/shashikant_rupin.pdf'
+import resume from "./../resume/Shashikant-Rupin-Resume.pdf";
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { faBars, faXmark } from "@fortawesome/free-solid-svg-icons";
 export default function Navbar({ handleClick, boolean }) {
 
   const handleDownload = () => {
-    window.open('https://drive.google.com/file/d/199_7f1Ofskiv7zQ6vyDUTyf1GG6SGJ_b/view?usp=sharing', '_blank');
+    window.open(
+      "https://drive.google.com/file/d/1kJBTyT2K1wt_2lnTNohtMW7Ap_pcVJt6/view?usp=sharing",
+      "_blank"
+    );
   };
 
   const topwindows = () => {
