@@ -53,3 +53,4 @@ export default function Contact() {
     </section>
   );
 }
+//first do npm run deploy after making all the change then push to git
