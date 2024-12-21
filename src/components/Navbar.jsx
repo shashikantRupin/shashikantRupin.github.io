@@ -5,7 +5,7 @@ export default function Navbar({ handleClick, boolean }) {
 
   const handleDownload = () => {
     window.open(
-      "https://drive.google.com/file/d/1kJBTyT2K1wt_2lnTNohtMW7Ap_pcVJt6/view?usp=sharing",
+      "https://drive.google.com/file/d/1RwscWGSvWjViloweT0D7b9KCtrRewQOw/view?usp=sharing",
       "_blank"
     );
   };
