@@ -21,3 +21,4 @@
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+# use npm run deploy to give the build and deploy ur portfolio

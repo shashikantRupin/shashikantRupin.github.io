@@ -12,7 +12,11 @@ export default function Contact() {
   }, []);
 
   return (
-    <section data-aos="fade-up" className="contact-continer sections" id="contact">
+    <section
+      data-aos="fade-up"
+      className="contact-continer sections"
+      id="contact"
+    >
       <h1 className="heading">
         <span className="sauce">Contact Me</span>
       </h1>
@@ -30,20 +34,25 @@ export default function Contact() {
           </a>
         </div>
         <div id="contact-phone" className="button-container">
-          <a
-            className="contact-button"
-            href="tel:+919504074778"
-          >
+          <a className="contact-button" href="tel:+919504074778">
             Give a Ring
           </a>
           <div id="contact-icons">
             <li id="contact-github-1">
-              <a target="_blank" rel="noreferrer" href="https://github.com/shashikantRupin">
+              <a
+                target="_blank"
+                rel="noreferrer"
+                href="https://github.com/shashikantRupin"
+              >
                 <FontAwesomeIcon icon={faGithub} />
               </a>
             </li>
             <li id="contact-linkedin-1">
-              <a target="_blank" rel="noreferrer" href="https://www.linkedin.com/in/rupin-raj-557940175/">
+              <a
+                target="_blank"
+                rel="noreferrer"
+                href="https://www.linkedin.com/in/rupin-raj-d98/"
+              >
                 <FontAwesomeIcon icon={faLinkedin} />
               </a>
             </li>
