@@ -1,6 +1,6 @@
 import React, { useEffect } from "react";
 import { DiMongodb, DiHtml5 } from 'react-icons/di'
-import { SiExpress, SiCss3, SiRedux, SiTailwindcss, SiJavascript, SiReact, SiPostman, SiVite } from 'react-icons/si'
+import { SiExpress, SiCss3, SiRedux, SiTailwindcss, SiJavascript, SiReact, SiPostman, SiVite, SiAngular } from 'react-icons/si'
 import { FaNodeJs, FaGitSquare, FaJava } from 'react-icons/fa'
 import { TbBrandVscode } from 'react-icons/tb'
 import AOS from "aos";
@@ -40,6 +40,16 @@ export const Skills = () => {
                 color="rgb(21, 246, 73)"
               />{" "}
               ReactJs
+            </div>
+          </li>
+          <li className="skills-card">
+            <div className="skills-card-name">
+              {" "}
+              <SiAngular
+                className="skills-card-img"
+                color="rgb(21, 246, 73)"
+              />{" "}
+              Angular
             </div>
           </li>
           <li className="skills-card">
