@@ -1,6 +1,6 @@
 import React, { useEffect } from "react";
 import { DiMongodb, DiHtml5 } from 'react-icons/di'
-import { SiExpress, SiCss3, SiRedux, SiTailwindcss, SiJavascript, SiReact, SiPostman, SiVite, SiAngular } from 'react-icons/si'
+import { SiExpress, SiCss3, SiRedux, SiTailwindcss, SiJavascript, SiReact, SiPostman, SiVite, SiAngular ,SiMaterialdesignicons} from 'react-icons/si'
 import { FaNodeJs, FaGitSquare, FaJava } from 'react-icons/fa'
 import { TbBrandVscode } from 'react-icons/tb'
 import AOS from "aos";
@@ -98,6 +98,15 @@ export const Skills = () => {
             <div className="skills-card-name">
               <SiCss3 className="skills-card-img" color="rgb(21, 246, 73)" />{" "}
               CSS
+            </div>
+          </li>
+          <li className="skills-card">
+            <div className="skills-card-name">
+              <SiMaterialdesignicons
+                className="skills-card-img"
+                color="rgb(21, 246, 73)"
+              />{" "}
+              Material UI
             </div>
           </li>
           <li className="skills-card">
