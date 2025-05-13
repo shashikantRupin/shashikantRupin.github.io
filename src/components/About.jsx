@@ -6,7 +6,7 @@ export default function About() {
 
   const handleDownload = () => {
     window.open(
-      "https://drive.google.com/file/d/1RwscWGSvWjViloweT0D7b9KCtrRewQOw/view?usp=sharing",
+      "https://drive.google.com/file/d/1OsySdMzWINe3SD-kOYNBrRgqYcxyGIlo/view?usp=sharing",
       "_blank"
     );
   };
