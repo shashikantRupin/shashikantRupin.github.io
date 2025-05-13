@@ -1,20 +1,20 @@
 {
   "files": {
     "main.css": "/static/css/main.2ef998c7.css",
-    "main.js": "/static/js/main.3abea3db.js",
+    "main.js": "/static/js/main.a457ae4e.js",
     "static/media/chat.png": "/static/media/chat.3286ce97d2a04bd39995.png",
     "static/media/jioMart1.png": "/static/media/jioMart1.842d7b8aa82cb9c6211a.png",
-    "static/media/Shashikant-Rupin-Resume.pdf": "/static/media/Shashikant-Rupin-Resume.1fc7334166bf7d1da072.pdf",
     "static/media/myWine.png": "/static/media/myWine.664b6e0b7d19ac55fcc1.png",
     "static/media/vetcarePic.png": "/static/media/vetcarePic.384602937d07d0ee86a2.png",
+    "static/media/Shashikant-Rupin-Resume.pdf": "/static/media/Shashikant-Rupin-Resume.ce67b37c0d7d8f74ebec.pdf",
     "static/media/personal.jpg": "/static/media/personal.cfbd52953816b9fd3b2f.jpg",
     "static/media/portfolio_img.png": "/static/media/portfolio_img.9db9dc7279cdf4327520.png",
     "index.html": "/index.html",
     "main.2ef998c7.css.map": "/static/css/main.2ef998c7.css.map",
-    "main.3abea3db.js.map": "/static/js/main.3abea3db.js.map"
+    "main.a457ae4e.js.map": "/static/js/main.a457ae4e.js.map"
   },
   "entrypoints": [
     "static/css/main.2ef998c7.css",
-    "static/js/main.3abea3db.js"
+    "static/js/main.a457ae4e.js"
   ]
 }
