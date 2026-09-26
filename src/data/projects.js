@@ -25,7 +25,7 @@ export default function getProjects() {
         "Socket.io",
         "MongoDB",
       ],
-      projectLinkHosted: "https://chat-app-prod-9abu.onrender.com/",
+      projectLinkHosted: "https://mern-chat-app-qcq.pages.dev/",
       projectLinkGithub: "https://github.com/shashikantRupin/mern-chat-app",
     },
     {
